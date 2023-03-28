@@ -1,0 +1,27 @@
+
+
+html {
+    background-color: antiquewhite;
+}
+
+li {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    color: rgb(47, 47, 98);
+    line-height: 200%;
+}
+h1 {
+    font-family: 'Trebuchet MS';
+    font-weight: 800;
+    color: rgb(17, 30, 60) ;
+    background-color: rgb(223, 226, 211);
+}
+
+img {
+    margin-top: 10%;
+    display: block;
+    margin-inline: auto;
+    width: 200px;
+    height: fit-content;
+}
